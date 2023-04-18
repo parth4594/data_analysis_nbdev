@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "data_analysis_nbdev"
+  site-url: "https://parth4594.github.io/data_analysis_nbdev"
+  description: "Data Analysis"
+  repo-branch: main
+  repo-url: "https://github.com/parth4594/data_analysis_nbdev"
